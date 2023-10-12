@@ -1,0 +1,4 @@
+C:/vs projects/test_cmake/build/CMakeFiles/ALL_BUILD.dir
+C:/vs projects/test_cmake/build/CMakeFiles/ZERO_CHECK.dir
+C:/vs projects/test_cmake/build/src/CMakeFiles/simplecmake.dir
+C:/vs projects/test_cmake/build/example/CMakeFiles/main.dir

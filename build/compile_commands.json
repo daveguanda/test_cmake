@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/vs projects/test_cmake/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/simplecmake.dir/includes_CXX.rsp -g -o CMakeFiles\\simplecmake.dir\\printhello.cpp.obj -c \"C:\\vs projects\\test_cmake\\src\\printhello.cpp\"",
+  "file": "C:/vs projects/test_cmake/src/printhello.cpp",
+  "output": "src/CMakeFiles/simplecmake.dir/printhello.cpp.obj"
+},
+{
+  "directory": "C:/vs projects/test_cmake/build/example",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\main.cpp.obj -c \"C:\\vs projects\\test_cmake\\example\\main.cpp\"",
+  "file": "C:/vs projects/test_cmake/example/main.cpp",
+  "output": "example/CMakeFiles/main.dir/main.cpp.obj"
+}
+]
