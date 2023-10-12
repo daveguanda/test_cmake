@@ -4,14 +4,7 @@
 trigger:
 - master
 
-jobs:
-- job: Windows
-  pool:
-    name: Home Pool
-    demands:
-    - cmake
-
-  steps:
+steps:
   - task: CMake@1
     displayName: 'CMake ..'
     inputs:
