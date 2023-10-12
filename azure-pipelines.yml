@@ -7,7 +7,7 @@ trigger:
 jobs:
 - job: Windows
   pool:
-    name: test_cmake
+    name: Home Pool
     demands:
     - cmake
 
@@ -21,7 +21,6 @@ jobs:
     displayName: 'CMake --build . --config Debug'
     inputs:
       cmakeArgs: '--build . --config Debug'
-
 
   - task: PublishBuildArtifacts@1
     displayName: 'Publish Artifact: drop'
